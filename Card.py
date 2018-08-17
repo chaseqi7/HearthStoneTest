@@ -15,4 +15,3 @@ class Card:
 
     def set_health(self, health):
         self.health = health
-
